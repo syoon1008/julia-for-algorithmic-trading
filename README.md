@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is aimed to port [ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading") to the Julia programming language.
+This project is aimed to port [ML for Trading](https://github.com/stefan-jansen/machine-learning-for-trading) to the Julia programming language.
 
 ## Chapter 2
 
